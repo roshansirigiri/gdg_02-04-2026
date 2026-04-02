@@ -14,7 +14,7 @@ const agentConfig = {
 
   // ─── BASIC INFO ───────────────────────────────────────────────
   // Your agent's name and branding (shown in the header & title)
-  name: "Anirudh_23BD1A057L",
+  name: "Roshan_23BD1A056L",
   emoji: "🤖",
   tagline: "Your AI Conversation Buddy",
   description: "I remember everything about cricket and get smarter the more we talk.",
